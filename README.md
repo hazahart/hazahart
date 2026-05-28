@@ -91,7 +91,7 @@ App de mensajería en tiempo real con autenticación segura, chat en vivo y alma
 
 ## Idiomas
 
-**Español** — Nativo &nbsp;|&nbsp; **Inglés** — B1 Intermedio &nbsp;|&nbsp; **Alemán** — Básico &nbsp;|&nbsp; **Francés** — Básico
+**Español**:Nativo &nbsp;|&nbsp; **Inglés**: Intermedio &nbsp;|&nbsp; **Alemán**: Básico &nbsp;|&nbsp; **Francés**: Básico
 
 ---
 
